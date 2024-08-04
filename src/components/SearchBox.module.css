@@ -1,0 +1,8 @@
+.search-box-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-box {
+  max-width: 20rem;
+}

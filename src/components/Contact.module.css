@@ -1,0 +1,31 @@
+.contact {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 1rem;
+  gap: 1rem;
+  width: 18rem;
+
+  .contact-info {
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    align-items: center;
+    gap: 0.5rem;
+
+    .contact-name {
+      font-weight: bold;
+    }
+
+    .contact-email {
+      font-style: italic;
+    }
+  }
+
+  .delete-button {
+    align-self: center;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+}

@@ -1,3 +1,3 @@
 # Home task 3
 
-## Live page - https://goit-neo-react-hw-module2.vercel.app/
+## Live page - https://goit-neo-react-hw-module3-rho.vercel.app/
